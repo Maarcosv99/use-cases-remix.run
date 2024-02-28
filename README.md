@@ -1,3 +1,5 @@
+After cloning the project, perhaps some use cases have not yet been created, and you want to do so. Use the command 'pnpm run menu' to select the use case, and the script will handle all the configuration for you.
+
 # Case studies of usage using Remix.run
 
 - [X] [Memory cache data](./cases/memory-cache-data/)
