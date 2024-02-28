@@ -1,0 +1,11 @@
+{
+    "name": "@workspace/tsconfig",
+    "version": "0.0.1",
+    "dependencies": {
+        "ts-node": "^10.9.1",
+        "tsconfig-paths": "^4.1.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.4"
+    }
+}

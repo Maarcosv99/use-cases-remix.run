@@ -1,0 +1,17 @@
+# Vercel files
+.vercel/
+
+# Local env files
+.env
+
+# Editor files
+.vscode
+
+# Node files
+node_modules
+
+# build output
+dist/
+
+# logs
+pnpm-debug.log*
