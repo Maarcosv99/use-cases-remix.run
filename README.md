@@ -1,4 +1,4 @@
-# Studies of use cases in Remix.run
+# Case studies of usage using Remix.run
 
 - [X] [Memory cache data](./cases/memory-cache-data/)
 - [ ] [Server-sent](./cases/server-sent/)
