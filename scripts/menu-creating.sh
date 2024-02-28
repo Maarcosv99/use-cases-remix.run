@@ -8,7 +8,7 @@ select opt in "${options[@]}"; do
     exit 1
   else
     echo Creating case $opt
-    # bash scripts/create-case.sh $opt
+    bash scripts/create-case.sh $opt
     exit 1
   fi
 
