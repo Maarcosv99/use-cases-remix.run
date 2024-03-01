@@ -1,0 +1,21 @@
+{
+  "extends": "@workspace/tsconfig/web.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowJs": true,
+    "paths": {
+      "@database/*": [
+        "database/*"
+      ],
+      "@/*": [
+        "app/*"
+      ]
+    }
+  },
+  "include": [
+    "app",
+    "env.d.ts",
+    "vite.config.ts",
+    "database"
+  ]
+}
