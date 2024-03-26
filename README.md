@@ -4,7 +4,7 @@ After cloning the project, perhaps some use cases have not yet been created, and
 
 - [X] [Memory cache data](./cases/memory-cache-data/)
 - [X] [Server-sent](./cases/server-sent/)
-- [ ] [Cookies](./cases/cookies/)
+- [X] [Cookies](./cases/cookies/)
 - [ ] [UseFetcher with zod](./cases/use-fetcher-with-zod/)
 - [ ] [i18n with dynamic param ($lang)](./cases/i18n)
 - [ ] [File upload](./cases/file-upload)
